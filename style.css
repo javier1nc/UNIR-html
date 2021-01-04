@@ -54,8 +54,12 @@ footer {
   background-color: #009CD0;
   padding: 10px;
   text-align: center;
+  
+}
+footer p{
   color: white;
 }
+
 /* [Diseño responsivo: hace que las dos columnas / cuadros se apilen una encima de la otra en lugar de una al lado de la otra, en pantallas pequeñas] */
 /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
 @media (max-width: 600px) {
