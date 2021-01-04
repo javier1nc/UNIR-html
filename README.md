@@ -4,7 +4,7 @@
 
 ## Bienvenido! 👋
 
-El trabajo de la asignatura Lenguajes, Estándares y Tecnologías para la Web consistirá en la realización y entrega de un sitio web formado por al menos 4 documentos HTML5 enlazados.
+El trabajo de la Maestria de la asignatura Lenguajes, Estándares y Tecnologías para la Web consistirá en la realización y entrega de un sitio web formado por al menos 4 documentos HTML5 enlazados.
 
 El sitio web global debe contener: Contenido textual, Imágenes, Audios y Videos, Formulario, Listas,Tablas.
 
